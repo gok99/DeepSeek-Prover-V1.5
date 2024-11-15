@@ -2,3 +2,6 @@
 	path = mathlib4
 	url = https://github.com/xinhjBrant/mathlib4.git
 	branch = deepseek
+[submodule "logical_verification_2023"]
+	path = logical_verification_2023
+	url = https://github.com/dranov/logical_verification_2023.git
