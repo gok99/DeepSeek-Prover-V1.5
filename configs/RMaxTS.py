@@ -8,7 +8,7 @@ data_split = 'test'
 data_repeat = 16  # run 16 * 6400
 
 # verifier
-lean_max_concurrent_requests = 64
+lean_max_concurrent_requests = 16
 lean_memory_limit = 10
 lean_timeout = 300
 
